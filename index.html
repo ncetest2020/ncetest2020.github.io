@@ -3,14 +3,140 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+     <link rel="stylesheet" href="css/style.css">
+     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet"> 
 
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display&display=swap" rel="stylesheet"> <link href="https://fonts.googleapis.com/css?family=Baloo+Thambi+2:400,600&display=swap" rel="stylesheet">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
 
     <title>NCETEST</title>
+    <style>
+    @media only screen and (max-width: 600px) {
+
+  p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+  .bg-light {
+    background: linear-gradient(#6190e8,#a7bfe8);
+}
+}
+/*@media only screen and(min-width: 610px){
+  p{
+    text-align:left;
+    margin-left:1rem;
+
+  }
+  h1{
+    font-weight: ;
+
+  }
+}*/
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgba(8, 17, 153, 0.71);
+}
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #16181b;
+    text-decoration: none;
+    background-color: #280ee18c;
+}
+.h4, h4 {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    font-stretch: expanded;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-color: blue;
+    color: #2a0cbb;
+    font-family: 'Roboto Slab', serif;
+    padding-top: 2.5rem;
+    text-align: center;
+    font-size:2.5rem;
+}
+img{width:100vw;
+  height:50%;
+  opacity:0.8;
+}
+p{
+  font-size: 2rem;
+}
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.5rem;
+    line-height: inherit;
+    white-space: nowrap;
+    font-weight: bolder;
+}
+#navbarDropdownMenuLink{
+  font-size:1.4rem;
+  margin-left:30rem;
+
+}
+.nav-link{
+  font-size:1.4rem;
+}
+#iete{
+  width:6rem;
+  height:6rem;
+  
+}
+#ele{
+  font-size:1.3rem;
+  text-align: left;
+}
+#x{
+  z-index: 500;
+  margin-top: -14rem;
+  margin-bottom: 10rem;
+  font-family: 'Roboto Slab', serif;
+  text-align:center;
+  margin-left:5rem;
+  margin-right:5rem;
+  color:   white  ;
+  font-size: 2.5rem;
+  font-weight: bolder;
+  position:relative;
+}
+#nav-item{
+  color:black;
+}
+.topic {
+    font-size: 1.5rem;
+    margin-left: 18rem;
+    text-align: left;
+}
+.container{
+  width:80%;
+  text-align:center;
+
+}
+.nav-link{
+  margin-left:50%;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #0062cc;
+    border-color: #005cbf;
+    position: relative;
+    margin-left: 45%;
+    margin-top: 10%;
+}
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+}
+</style>
   </head>
   <body>
-    <h1>NCETEST 2020</h1>
+    
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -20,7 +146,10 @@
 
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light" id="navbar-example2">
-  <a class="navbar-brand" href="#">NCETEST 2020</a>
+      <img src="logo.jpg" id="logo" style="width:6rem;height:6rem;">
+      
+  <a class="navbar-brand" href="#">RNS INSTITUTE OF TECHNOLOGY</a><br>
+  
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -36,7 +165,7 @@
           <a class="dropdown-item" href="#three">Organising Committee</a>
         </div>
       </li>
-      <li class="nav-item active">
+      <li class="nav-item">
         <a class="nav-link" href="#">Register <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
@@ -45,9 +174,12 @@
      
     </ul>
   </div>
+  <img src="iete.png" id="iete">
 </nav>
+<p id="ele">Department of Electronics and Communication Engineering</p>
 <div class="header">
-  <img src="">
+  <img src="index.jpg" id="bg">
+  <p id="x">IETE Sponsered Third National Conference on Emerging Trends in Engineering, Science and Technology</p>
 </div>
 
 <!--<nav id="navbar-example2" class="navbar navbar-light bg-light">
@@ -72,17 +204,24 @@
 </nav>-->
 <div data-spy="scroll" data-target="#navbar-example2" data-offset="0">
   <h4 id="one">About the Conference</h4>
+  <div class="container">
   <p>The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technology.</p>
+</div>
+  <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">REGISTER</a>
 
-  <button href="">REGISTER</button>
 
   <h4 id="dates">Important Dates</h4>
+  <div class="container">
   <p>...</p>
+</div>
   <h4 id="Register">Register</h4>
+  <div class="container">
   <p>...</p>
+</div>
   <h4 id="two">Topics</h4>
+  <div class="container">
   <p>
-    <ul>
+    <ul class="topic">
       <li>Machine Learning and Aritficial Intelligence</li>
       <li>Audio and speech processing</li>
       <li>Pattern recognition</li>
@@ -107,11 +246,13 @@
     </ul>
 
   </p>
+</div>
   <h4 id="dates">Important Dates</h4>
   <p>...</p>
   <h4 id="Register">Register</h4>
   <p>...</p>
   <h4 id="three">Organising Committee</h4>
+  <div class="container">
   <p>ORGANISING COMMITTEE</p>
   <ul>
     Department of ECE
@@ -123,7 +264,7 @@
     <li>Mrs.Nirmala M S            Asst. Prof.</li>
     <li>Mrs.Dhanusha A             Asst. Prof.</li>
   </ul>
-  
+  </div>
 </div>
 
 
