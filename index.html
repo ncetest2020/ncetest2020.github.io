@@ -25,6 +25,7 @@
 
   }
 }*/
+
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
     color: rgba(8, 17, 153, 0.71);
 }
@@ -42,12 +43,17 @@
     margin-bottom: .5rem;
     font-weight: 500;
     line-height: 1.2;
-    font-color: blue;
-    color: #2a0cbb;
+    background: -webkit-linear-gradient(left, #dc2424 , #4a569d);
+   background: -o-linear-gradient(right,#dc2424, #4a569d );
+   background: -moz-linear-gradient(right,#dc2424 ,  #4a569d);
+   background: linear-gradient(to right, #dc2424 ,  #4a569d); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
     font-family: 'Roboto Slab', serif;
     padding-top: 2.5rem;
     text-align: center;
     font-size:2.5rem;
+    letter-spacing: 0.127rem;
 }
 img{width:100vw;
   height:50%;
@@ -64,9 +70,13 @@ p{
 }
 #ele{
   font-size:1.3rem;
-  text-align: left;
+  text-align: center;
   
 
+}
+#z{
+  text-align:center;
+  color:white;
 }
 #x{
   z-index: 500;
@@ -84,13 +94,20 @@ p{
 
 .topic {
     font-size: 1.5rem;
-    margin-left: 1rem;
+    margin-left: 17rem;
     text-align: left;
-    position: 
+    
 }
 .container{
   width:70%;
   text-align: center;
+
+border: 12px solid #302b63;
+border-radius: 10px;
+margin-top: 15px;
+margin-bottom: 15px;
+background-color:white;
+
 } 
 
 #logo{
@@ -103,10 +120,10 @@ p{
 }
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #0062cc;
+    background-color: #2980b9;
     border-color: #005cbf;
     position: relative;
-    margin-left: 35%;
+    margin-left: 0%;
     margin-top: 10%;
 }
 .navbar-expand-lg .navbar-nav .nav-link {
@@ -144,9 +161,19 @@ p{
   font-weight:bold;
   text-align:center;
   font-size:1.5rem;
+  margin-top: -4rem;
+  color:white;
+}
+.committee{
+  font-size:1.5rem;
+  text-align:left;
+ 
+}
+body{
+  background-image: linear-gradient(#373b44,#4286f4);
 }
 @media only screen and (max-width: 600px) {
-
+@media (orientation:portrait){
   p {
     margin-top: 0;
     margin-bottom: 1rem;
@@ -165,23 +192,30 @@ p{
     font-weight: bolder;
     visibility:hidden;
 }
-#logo{
-  width:10px;
-  height:10px;
-  visibility:hidden;
+.committee{
+  font-size:1.5rem;
+  text-align:left;
+  
 }
+
 #x {
     z-index: 500;
-    margin-top: -18rem;
+    margin-top: -15rem;
     margin-bottom: 10rem;
     font-family: 'Roboto Slab', serif;
-    text-align: center;
-    margin-left: 5rem;
-    margin-right: 5rem;
+    text-align: left;
+    margin-left: 1rem;
+    margin-right: 1rem;
     color: white;
     font-size: 1.5rem;
     font-weight: bolder;
     position: relative;
+}
+#iete {
+    width: 65px;
+    height: 65px;
+    margin-left: 15rem;
+
 }
 .topic {
     font-size: 1.5rem;
@@ -210,7 +244,7 @@ li{
   font-size:1.3rem;
   text-align:left;
 }
-#x {
+/*#x {
     z-index: 500;
     margin-top: -18rem;
     margin-bottom: 5rem;
@@ -222,20 +256,13 @@ li{
     font-size: 1.5rem;
     font-weight: bolder;
     position: relative;
-}
+}*/
 #ele {
     font-size: 0.8rem;
     text-align: left;
     visibility:hidden;
 }
-#logo{
-  width:10px;
-  height:10px;
-}
-#iete{
-  width:10px;
-  height:10px;
-}
+
 /*.topic {
     font-size: 1.5rem;
     margin-left: 1rem;
@@ -243,6 +270,64 @@ li{
 }*/
 .container{
   width:90%;
+
+border: 12px solid white;
+border-radius: 10px;
+margin-top: 15px;
+margin-bottom: 15px;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #0062cc;
+    border-color: #005cbf;
+    position: relative;
+    margin-left: 50%;
+    margin-top: 10%;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #0062cc;
+    border-color: #005cbf;
+    position: relative;
+    margin-left: 0%;
+    margin-top: 10%;
+    margin-left: 0%;
+}
+
+
+h4{
+
+ background: -webkit-linear-gradient(#4b6cb7, #182848);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#y {
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: -1.5rem;
+}
+#z{
+  font-size:1rem;
+  text-align:center;
+  margin-top:-0.5rem;
+  margin-bottom:5rem;
+}
+}
+@media (orientation:landscape){
+  #x {
+    z-index: 500;
+    margin-top: -12rem;
+    margin-bottom: 10rem;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    color: white;
+    font-size: 2.0rem;
+    font-weight: bolder;
+    position: relative;
+}
 }
 }
 </style>
@@ -278,13 +363,13 @@ li{
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Register <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="#register">Register <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Important Dates</a>
+        <a class="nav-link" href="#dates">Important Dates</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Contact</a>
+        <a class="nav-link" href="#contact">Contact</a>
       </li>
      
     </ul>
@@ -323,28 +408,26 @@ li{
     </li>
   </ul>
 </nav>-->
+<div class="container">
 <div data-spy="scroll" data-target="#navbar-example2" data-offset="0">
   <h4 id="one">About the Conference</h4>
-  <div class="container">
+  
   <p>The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technology.</p>
-</div>
+
   <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">REGISTER</a>
 
 
   <h4 id="dates">Important Dates</h4>
-  <div class="container">
+  
   <p>...</p>
-</div>
+
   <h4 id="Register">Register</h4>
-  <div class="container">
+  
   <p>...</p>
-</div>
-<h4 id="contact">Contact</h4>
-<div class="container">
-  <p>...</p>
-</div>
+
+
   <h4 id="two">Topics</h4>
-  <div class="container">
+  
   <p>
     <ul class="topic">
       <li>Machine Learning and Aritficial Intelligence</li>
@@ -371,15 +454,11 @@ li{
     </ul>
 
   </p>
-</div>
-  <h4 id="dates">Important Dates</h4>
-  <p>...</p>
-  <h4 id="Register">Register</h4>
-  <p>...</p>
-  <h4 id="three">Organising Committee</h4>
-  <div class="container">
+
   
-  <ul>
+  <h4 id="three">Organising Committee</h4>
+
+  <ul class="committee">
     <li>Department of ECE</li>
     <li>Mrs.Ibrar Jahan M A   <br>     Asst. Prof.</li>
     <li>Mrs.Ghousia Begum     <br>     Asst. Prof.</li>
@@ -389,10 +468,11 @@ li{
     <li>Mrs.Nirmala M S       <br>     Asst. Prof.</li>
     <li>Mrs.Dhanusha A        <br>     Asst. Prof.</li>
   </ul>
-  </div>
+  
+<h4 id=#contact>Contact</h4>
+<p>Dr.Smitha N- </p><br>
+<p>Mrs.Chethana J-</p>
+
 </div>
-
-
-
   </body>
 </html>
