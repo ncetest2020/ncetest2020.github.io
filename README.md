@@ -8,7 +8,7 @@
 * * *
 The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technology.
 
-[The conference paper template can be found here](https://www.google.com/)
+The conference paper must not exceed 6 pages and must be in IEEE format. The[ conference paper template ](https://www.google.com/) can be found here.
 
 
 
@@ -48,7 +48,7 @@ Professor and Head of Department, ECE
  Last date of registration        - June 13, 2020
  Conference date                  - June 17, 2020
  Registration fee                 - Rs.50
- Payment mode                     -Google Pay (9740861361)
+ Payment mode                     - Google Pay (9740861361)
 
 ```
 
