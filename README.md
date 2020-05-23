@@ -5,13 +5,16 @@
 
 ## About ##
 
-* * *
-The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technology.
 
+The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technology.
+<br/>
 * * *
 **The conference paper must not exceed 6 pages and must be in IEEE format. The [ conference paper template](https://drive.google.com/file/d/13JA_YettUUV6ZZXjJDL1x_4W6IDEK_zn/view?usp=sharing) can be found here.**
 
 * * *
+<br/>
+<br/>
+<br/>
 
 
 **Cheif Patron**
@@ -41,7 +44,9 @@ Professor and Head of Department, ECE
 
  Dr Ohileshwari M S<br/>
  Assistant Professor
-
+<br/>
+<br/>
+<br/>
 ## Important Dates ## 
 
 ```markdown
@@ -53,11 +58,13 @@ Professor and Head of Department, ECE
  Payment mode                     - Google Pay (9740861361)
 
 ```
-
+<br/>
+<br/>
+<br/>
 
 ## Topics ##
  
-* * *
+
 >- Machine Learning and Artificial Intelligence
 >- Audio and speech processing
 >- Pattern recognition
@@ -77,12 +84,14 @@ Professor and Head of Department, ECE
 >- Robotics Engineering
 >- IoT
 >- MEMS
-
+<br/>
+<br/>
+<br/>
 
 
 ## Organising Committee ##
 
-* * *
+
 
 ## Department of ECE
 >- Mrs.Ibrar Jahan M A          
@@ -97,7 +106,9 @@ Asst. Prof.
 Asst. Prof.
 >- Mrs.Dhanusha A               
 Asst. Prof.
-
+<br/>
+<br/>
+<br/>
 
 
 ## Contact ##
