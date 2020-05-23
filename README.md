@@ -43,7 +43,12 @@ Professor and Head of Department, ECE
 ## Important Dates ## 
 
 ```markdown
-### Important Dates
+Last date for paper submission - June 05, 2020<br/> 
+Intimation of acceptance       - June 09, 2020<br/>
+Last date of registration      - June 13, 2020<br/>
+Conference date                - June 17, 2020<br/>
+Registration fee               - Rs.50<br/>
+Payment mode                   -Google Pay (9740861361)<br/>
 
 ```
 
@@ -96,6 +101,6 @@ Asst. Prof.
 
 * * *
 
- **Dr Smitha N**         -<br/>
- **Mrs.Chethana J**      -
+ **Dr Smitha N**         -98443 26064<br/>
+ **Mrs.Chethana J**      -98861 08100
 ## ncetest2020.rnsit@gmail.com
