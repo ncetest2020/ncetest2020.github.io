@@ -5,7 +5,7 @@
 
 ## About ##
 
-
+* * *
 The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technology.
 <br/>
 * * *
@@ -48,7 +48,7 @@ Professor and Head of Department, ECE
 <br/>
 <br/>
 ## Important Dates ## 
-
+* * *
 ```markdown
  Last date for paper submission   - June 05, 2020 
  Intimation of acceptance         - June 09, 2020
@@ -63,7 +63,7 @@ Professor and Head of Department, ECE
 <br/>
 
 ## Topics ##
- 
+* * *
 
 >- Machine Learning and Artificial Intelligence
 >- Audio and speech processing
@@ -90,7 +90,7 @@ Professor and Head of Department, ECE
 
 
 ## Organising Committee ##
-
+* * *
 
 
 ## Department of ECE
