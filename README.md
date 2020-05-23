@@ -6,7 +6,9 @@
 ## About ##
 
 * * *
-The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technolgy.
+The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technology.
+
+[The conference paper template can be found here](https://www.google.com/)
 
 
 
