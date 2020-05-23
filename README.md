@@ -43,12 +43,12 @@ Professor and Head of Department, ECE
 ## Important Dates ## 
 
 ```markdown
-**Last date for paper submission - June 05, 2020 
-Intimation of acceptance         - June 09, 2020
-Last date of registration        - June 13, 2020
-Conference date                  - June 17, 2020
-Registration fee                 - Rs.50
-Payment mode                     -Google Pay (9740861361)**
+## Last date for paper submission   - June 05, 2020 
+## Intimation of acceptance         - June 09, 2020
+## Last date of registration        - June 13, 2020
+## Conference date                  - June 17, 2020
+## Registration fee                 - Rs.50
+## Payment mode                     -Google Pay (9740861361)
 
 ```
 
