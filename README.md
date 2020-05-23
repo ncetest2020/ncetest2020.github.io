@@ -83,8 +83,6 @@ Payment mode                     -Google Pay (9740861361)**
 ## Department of ECE
 >- Mrs.Ibrar Jahan M A          
 Asst. Prof.
->- Mrs.Ghousia Begum           
-Asst. Prof.
 >- Mrs.Chethana J             
 Asst. Prof.
 >- Mrs.Leena C                  
