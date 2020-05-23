@@ -8,7 +8,7 @@
 * * *
 The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technology.
 
-The conference paper must not exceed 6 pages and must be in IEEE format. The [ conference paper template](https://drive.google.com/file/d/13JA_YettUUV6ZZXjJDL1x_4W6IDEK_zn/view?usp=sharing) can be found here.
+**The conference paper must not exceed 6 pages and must be in IEEE format. The [ conference paper template](https://drive.google.com/file/d/13JA_YettUUV6ZZXjJDL1x_4W6IDEK_zn/view?usp=sharing) can be found here.**
 
 
 
