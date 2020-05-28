@@ -117,4 +117,4 @@ Asst. Prof.
 
  **Dr Smitha N**         -98443 26064<br/>
  **Mrs.Chethana J**      -98861 08100
-## ncetest2020.rnsit@gmail.com
+
