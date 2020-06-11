@@ -56,6 +56,8 @@ Professor and Head of Department, ECE
  Conference date                  - June 17, 2020
  Registration fee                 - Rs.50
  Payment mode                     - Google Pay (9740861361)
+ Account Number                   - 38349137085
+ IFSC Code                        - SBIN0017780
 
 ```
 <br/>
