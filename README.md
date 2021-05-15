@@ -92,9 +92,9 @@ Professor and Head of Department, ECE
 >-	Mr. Ganesh Y., Asst. Professor
 >-	Mr. Sanjay M. Belgaonkar, Asst. Professor
 >-	Mrs. Vinaya Kusuma, Asst. Professor
->-	Ms. Geetha G.,Asst. Professor
+>-	Ms. Geetha G, Asst. Professor
 >-	Mrs. Apoorva N. Hegde, Asst. Professor
->-	Mrs. Pavithra M., Asst. Professor
+>-	Mrs. Pavithra M, Asst. Professor
 
 <br/>
 <br/>
