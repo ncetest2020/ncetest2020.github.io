@@ -22,18 +22,18 @@ MD, RNS Group of Companies
 
 **Organising Chair**
 
-Dr M K Venkatesha<br />
+Dr. M K Venkatesha<br />
 Principal
 
 **Convener**
 
-Dr Vipula Singh<br />
+Dr. Vipula Singh<br />
 Professor and Head of Department, ECE
 
 **Co-ordinators**
 
  Dr. Usha B S<br/>
- Assistant Professor
+ Associate Professor
 
  Dr. Sangeetha B G<br/>
  Assistant Professor
