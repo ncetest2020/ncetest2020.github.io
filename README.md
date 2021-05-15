@@ -16,16 +16,10 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 <br/>
 <br/>
 
+**Patrons**
 
-**Cheif Patron**
-
- Dr R N Shetty<br />
- Chairman
-
-**Patron**
-
-Dr H N Shivashankar<br />
-Director
+Mr. Sathish R Shetty<br />
+MD, RNS Group of Companies
 
 **Organising Chair**
 
@@ -39,10 +33,10 @@ Professor and Head of Department, ECE
 
 **Co-ordinators**
 
- Dr Smitha N<br/>
+ Dr. Usha B S<br/>
  Assistant Professor
 
- Dr Ohileshwari M S<br/>
+ Dr. Sangeetha B G<br/>
  Assistant Professor
 <br/>
 <br/>
@@ -50,14 +44,14 @@ Professor and Head of Department, ECE
 ## Important Dates ## 
 * * *
 ```markdown
- Last date for paper submission   - June 05, 2020 
- Intimation of acceptance         - June 09, 2020
- Last date of registration        - June 13, 2020
- Conference date                  - June 17, 2020
- Registration fee                 - Rs.50
- Payment mode                     - Google Pay (9740861361)
- Account Number                   - 38349137085
- IFSC Code                        - SBIN0017780
+ Last date for paper submission   - June 10, 2021 
+ Intimation of acceptance         - June 15, 2021
+ Last date of registration        - June 25, 2021
+ Conference date                  - July 2, 2021
+ Registration fee                 - Rs.100
+ Payment mode                     - Google Pay (9663075706)
+ Account Number                   - 8574101050105
+ IFSC Code                        - CNRB0008574
 
 ```
 <br/>
@@ -96,18 +90,13 @@ Professor and Head of Department, ECE
 
 
 ## Department of ECE
->- Mrs.Ibrar Jahan M A          
-Asst. Prof.
->- Mrs.Chethana J             
-Asst. Prof.
->- Mrs.Leena C                  
-Asst. Prof.
->- Mrs.Apoorva N Hegde          
-Asst. Prof.
->- Mrs.Nirmala M S           
-Asst. Prof.
->- Mrs.Dhanusha A               
-Asst. Prof.
+>-	Mr. Ganesh Y., Asst. Professor
+>-	Mr. Sanjay M. Belgaonkar, Asst. Professor
+>-	Mrs. Vinaya Kusuma, Asst. Professor
+>-	Ms. Geetha G.,Asst. Professor
+>-	Mrs. Apoorva N. Hegde, Asst. Professor
+>-	Mrs. Pavithra M., Asst. Professor
+
 <br/>
 <br/>
 <br/>
@@ -117,6 +106,6 @@ Asst. Prof.
 
 * * *
 
- **Dr Smitha N**         -98443 26064<br/>
- **Mrs.Chethana J**      -98861 08100
+ **Mrs. Vinaya Kusuma**         -98809 22312<br/>
+ **Mrs. Apoorva N. Hegde**      -97407 32985
 
