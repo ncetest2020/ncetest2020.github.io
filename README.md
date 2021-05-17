@@ -13,6 +13,7 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 * * *
 <br/>
+
 **Patrons**
 
 Mr. Satish R Shetty<br />
