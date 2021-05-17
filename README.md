@@ -13,11 +13,9 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 * * *
 <br/>
-<br/>
-
 **Patrons**
 
-Mr. Sathish R Shetty<br />
+Mr. Satish R Shetty<br />
 MD, RNS Group of Companies
 
 **Organising Chair**
@@ -38,8 +36,7 @@ Professor and Head of Department, ECE
  Dr. Sangeetha B G<br/>
  Assistant Professor
 <br/>
-<br/>
-<br/>
+
 ## Important Dates ## 
 * * *
 ```markdown
@@ -53,8 +50,6 @@ Professor and Head of Department, ECE
  IFSC Code                        - CNRB0008574
 
 ```
-<br/>
-<br/>
 <br/>
 
 ## Topics ##
@@ -80,8 +75,7 @@ Professor and Head of Department, ECE
 >- IoT
 >- MEMS
 <br/>
-<br/>
-<br/>
+
 
 
 ## Organising Committee ##
@@ -97,9 +91,6 @@ Professor and Head of Department, ECE
 >-	Mrs. Pavithra M, Asst. Professor
 
 <br/>
-<br/>
-<br/>
-
 
 ## Contact ##
 
