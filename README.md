@@ -1,4 +1,4 @@
-[ About ](#about) | [ Topics ](#topics) | [ Important Dates ](#important-dates) | [ Committee ](#organising-committee) | [ Contact ](#contact)
+ [ About ](#about) | [ Topics ](#topics) | [ Important Dates ](#important-dates) | [ Committee ](#organising-committee) | [ Contact ](#contact)
 
 ## About ##
 * * *
@@ -43,13 +43,11 @@ Professor and Head of Department, ECE
  Payment mode                     - Google Pay or PhonePe(9663075706)
  Account Number                   - 8574101050105
  IFSC Code                        - CNRB0008574
-
 ```
 <br/>
 
 ## Topics ##
 * * *
-
 >- Machine Learning and Artificial Intelligence
 >- Audio and speech processing
 >- Pattern recognition
