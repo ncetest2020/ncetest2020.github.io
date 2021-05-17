@@ -24,8 +24,22 @@
 
     <header class="page-header" role="banner">
       
-      <img src="/images/logo.jpg" style="width:6rem;height:6rem;margin-left:35px">
-      <img src="/images/iete.png" style="width:6rem;height:6rem">
+      <ul class="flex-container nowrap" style="
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  -ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: center;
+  /* justify-content: space-between; */
+  margin-top: -3rem;
+  ">
       <h3 class="project-name">IETE Sponsered Fourth National Conference on Emerging Trends in Engineering, Science and Technology 2021</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         <a href="https://forms.gle/ru3PVVQwbC93zn2t7" class="btn" style="margin-bottom: 1rem;
