@@ -1,12 +1,9 @@
-## RNS INSTITUTE OF TECHNOLOGY
-
-## Department of Electronics and Communication Engineering
 [ About ](#about)|[ Topics ](#topics)|[ Important Dates ](#important-dates)|[ Committee ](#organising-committee)|[ Contact ](#contact)
 
 ## About ##
 
 * * *
-The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technology.
+The conference provides a platform for UG students, PG students and Research scholars of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technology.
 <br/>
 * * *
 **The conference paper must not exceed 6 pages and must be in IEEE format. The [ conference paper template](https://drive.google.com/file/d/13JA_YettUUV6ZZXjJDL1x_4W6IDEK_zn/view?usp=sharing) can be found here.**
@@ -14,7 +11,7 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 * * *
 <br/>
 
-**Patrons**
+**Patron**
 
 Mr. Satish R Shetty<br />
 MD, RNS Group of Companies
@@ -46,7 +43,7 @@ Professor and Head of Department, ECE
  Last date of registration        - June 25, 2021
  Conference date                  - July 2, 2021
  Registration fee                 - Rs.100
- Payment mode                     - Google Pay (9663075706)
+ Payment mode                     - Google Pay or PhonePe(9663075706)
  Account Number                   - 8574101050105
  IFSC Code                        - CNRB0008574
 
@@ -81,7 +78,6 @@ Professor and Head of Department, ECE
 
 ## Organising Committee ##
 * * *
-
 
 ## Department of ECE
 >-	Mr. Ganesh Y., Asst. Professor
