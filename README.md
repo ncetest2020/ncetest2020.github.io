@@ -1,16 +1,13 @@
-[ About ](#about)|[ Topics ](#topics)|[ Important Dates ](#important-dates)|[ Committee ](#organising-committee)|[ Contact ](#contact)
+[ About ](#about) | [ Topics ](#topics) | [ Important Dates ](#important-dates) | [ Committee ](#organising-committee) | [ Contact ](#contact)
 
 ## About ##
-
 * * *
 The conference provides a platform for UG students, PG students and Research scholars of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technology.
 <br/>
 * * *
 **The conference paper must not exceed 6 pages and must be in IEEE format. The [ conference paper template](https://drive.google.com/file/d/13JA_YettUUV6ZZXjJDL1x_4W6IDEK_zn/view?usp=sharing) can be found here.**
-
 * * *
 <br/>
-
 **Patron**
 
 Mr. Satish R Shetty<br />
@@ -74,23 +71,17 @@ Professor and Head of Department, ECE
 >- MEMS
 <br/>
 
-
-
 ## Organising Committee ##
 * * *
-
-## Department of ECE
 >-	Mr. Ganesh Y., Asst. Professor
 >-	Mr. Sanjay M. Belgaonkar, Asst. Professor
 >-	Mrs. Vinaya Kusuma, Asst. Professor
 >-	Ms. Geetha G, Asst. Professor
 >-	Mrs. Apoorva N. Hegde, Asst. Professor
 >-	Mrs. Pavithra M, Asst. Professor
-
 <br/>
 
 ## Contact ##
-
 * * *
 
  **Mrs. Vinaya Kusuma**         -98809 22312<br/>
