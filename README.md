@@ -1,5 +1,6 @@
-****NCETEST 2021****
+
 <br>
+
 [ About ](#about) | [ Topics ](#topics) | [ Important Dates ](#important-dates) | [ Committee ](#organising-committee) | [ Contact ](#contact)
 
 ## About ##
