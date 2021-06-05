@@ -47,9 +47,7 @@ Professor and Head of Department, ECE
  IFSC Code                        - CNRB0008574
 ```
 <br/>
-The paper has to be checked for plagiarism in any of the online plagiarism check tools and should be <=30%.
-<br/>
-The free plagiarism tool is available at <a href="https://smallseotools.com">smallseotools</a>.
+The paper has to be checked for plagiarism in any of the online plagiarism check tools and should be <=30%. The free plagiarism tool is available at <a href="https://smallseotools.com">smallseotools</a>.
 Here you can copy paste the content and check the plagiarism. 
 <br/>
 The selected papers will be published in the conference proceedings with ISBN number.
