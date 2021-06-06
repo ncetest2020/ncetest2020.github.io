@@ -37,9 +37,9 @@ Professor and Head of Department, ECE
 ## Important Dates ## 
 * * *
 ```markdown
- Last date for paper submission   - June 10, 2021 
- Intimation of acceptance         - June 15, 2021
- Last date of registration        - June 25, 2021
+ Last date for paper submission   - June 22, 2021 
+ Intimation of acceptance         - June 26, 2021
+ Last date of registration        - June 30, 2021
  Conference date                  - July 2, 2021
  Registration fee                 - Rs.100
  Payment mode                     - Google Pay or PhonePe(9663075706)
